@@ -1,0 +1,51 @@
+
+body {
+    font-family: "Ubuntu", sans-serif;
+    font-weight: bold;
+    font-style: normal;
+    min-height: 100%;
+    background: white;
+
+}
+.navbar {
+    background-color: white;
+
+}
+
+.navbar-brand, .nav-link {
+    color: #7bbf48 !important;
+}
+.main-content {
+    padding: 50px 15px;
+    text-align: center;
+}
+.gacha-card {
+    background-color: #7bbf48;
+    border-radius: 20px;
+    box-shadow: 0 5px 20px rgba(0,0,0,0.1);
+    padding: 30px;
+    max-width: 350px;
+    margin: 0 auto;
+
+}
+.gacha-card img {
+    width: 100%;
+    border-radius: 15px;
+    margin-bottom: 15px;
+
+}
+
+.charname{
+    color: white;
+}
+.btn-gacha {
+    background-color: white;
+    color: #7bbf48;
+    border-radius: 30px;
+    padding: 10px 30px;
+    font-size: 1.2rem;
+    font-weight: bold;
+}
+.btn-gacha:hover {
+    background-color: #5fa73b;
+}
