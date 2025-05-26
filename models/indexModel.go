@@ -1,24 +1,21 @@
 package models
 
 import (
+	"bytes"
+	"embed"
 	"encoding/json"
-	"os"
+	"waifu_gcx/entities"
 )
 
-type Waifu struct {
-	Id   int    `json:"id"`
-	Name string `json:"name"`
-}
-
-func LoadJson(path string) ([]Waifu, error) {
-	file, err := os.Open(path)
+func LoadJson(data embed.FS) ([]entities.Waifu, error) {
+	file, err := data.ReadFile("data/waifu.json")
 	if err != nil {
-		panic(err)
+		return nil, err
 	}
-	defer file.Close()
 
-	var result []Waifu
-	err = json.NewDecoder(file).Decode(&result)
+	reader := bytes.NewReader(file)
+	var result []entities.Waifu
+	err = json.NewDecoder(reader).Decode(&result)
 	if err != nil {
 		panic(err)
 	}

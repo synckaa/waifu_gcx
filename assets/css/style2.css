@@ -1,0 +1,36 @@
+
+body {
+    font-family: "Ubuntu", sans-serif;
+    font-weight: bold;
+    font-style: normal;
+    background: white;
+}
+.navbar {
+    background-color: white;
+
+}
+
+.navbar-brand, .nav-link {
+    color: #7bbf48 !important;
+}
+
+.hero {
+    background-color: white;
+    color: #7bbf48;;
+    text-align: center;
+}
+.section-title {
+    font-size: 2rem;
+    font-weight: 600;
+    margin-bottom: 1rem;
+}
+.lead {
+    font-size: 2rem;
+    font-weight: 600;
+}
+.footer {
+    background-color: #7bbf48;;
+    padding: 30px 0;
+    text-align: center;
+    margin-top: 80px;
+}

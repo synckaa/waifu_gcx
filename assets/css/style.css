@@ -3,7 +3,6 @@ body {
     font-family: "Ubuntu", sans-serif;
     font-weight: bold;
     font-style: normal;
-    min-height: 100%;
     background: white;
 
 }
@@ -48,4 +47,18 @@ body {
 }
 .btn-gacha:hover {
     background-color: #5fa73b;
+}
+
+@media (max-width: 768px) {
+    .main-content {
+        padding-top: 0px !important;
+    }
+
+    h1.mb-4 {
+        margin-bottom: 1rem !important;
+    }
+
+    .gacha-card {
+        padding: 20px; 
+    }
 }
