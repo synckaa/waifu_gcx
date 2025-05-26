@@ -1,22 +1,782 @@
 [
   {
-    "id" : 1,
+    "id": 1,
     "name": "Maomao"
-
   },
   {
-    "id" : 2,
+    "id": 2,
     "name": "Cha Hae In"
-
   },
   {
-    "id" : 3,
-    "name": "Asuka Langley"
-
+    "id": 3,
+    "name": "Asuka Langley Soryu"
   },
   {
-    "id" : 4,
+    "id": 4,
     "name": "Megumin"
-
+  },
+  {
+    "id": 5,
+    "name": "Frieren"
+  },
+  {
+    "id": 6,
+    "name": "Fern"
+  },
+  {
+    "id": 7,
+    "name": "Power"
+  },
+  {
+    "id": 8,
+    "name": "Makima"
+  },
+  {
+    "id": 9,
+    "name": "Himeno"
+  },
+  {
+    "id": 10,
+    "name": "Nobara Kugisaki"
+  },
+  {
+    "id": 11,
+    "name": "Maki Zenin"
+  },
+  {
+    "id": 12,
+    "name": "Utahime Iori"
+  },
+  {
+    "id": 13,
+    "name": "Yor Forger"
+  },
+  {
+    "id": 14,
+    "name": "Anya Forger"
+  },
+  {
+    "id": 15,
+    "name": "Rebecca"
+  },
+  {
+    "id": 16,
+    "name": "Lucy"
+  },
+  {
+    "id": 17,
+    "name": "Sakura Matou"
+  },
+  {
+    "id": 18,
+    "name": "Rin Tohsaka"
+  },
+  {
+    "id": 19,
+    "name": "Saber"
+  },
+  {
+    "id": 20,
+    "name": "Mikasa Ackerman"
+  },
+  {
+    "id": 21,
+    "name": "Historia Reiss"
+  },
+  {
+    "id": 22,
+    "name": "Hange Zoe"
+  },
+  {
+    "id": 23,
+    "name": "Annie Leonhart"
+  },
+  {
+    "id": 24,
+    "name": "Ymir"
+  },
+  {
+    "id": 25,
+    "name": "Nezuko Kamado"
+  },
+  {
+    "id": 26,
+    "name": "Shinobu Kocho"
+  },
+  {
+    "id": 27,
+    "name": "Mitsuri Kanroji"
+  },
+  {
+    "id": 28,
+    "name": "Kanao Tsuyuri"
+  },
+  {
+    "id": 29,
+    "name": "Ruka Sarashina"
+  },
+  {
+    "id": 30,
+    "name": "Sumi Sakurasawa"
+  },
+  {
+    "id": 31,
+    "name": "Emilia"
+  },
+  {
+    "id": 32,
+    "name": "Rem"
+  },
+  {
+    "id": 33,
+    "name": "Ram"
+  },
+  {
+    "id": 34,
+    "name": "Beatrice"
+  },
+  {
+    "id": 35,
+    "name": "Elsa Granhiert"
+  },
+  {
+    "id": 36,
+    "name": "Aqua"
+  },
+  {
+    "id": 37,
+    "name": "Darkness"
+  },
+  {
+    "id": 38,
+    "name": "Wiz"
+  },
+  {
+    "id": 39,
+    "name": "Yunyun"
+  },
+  {
+    "id": 40,
+    "name": "Eris"
+  },
+  {
+    "id": 41,
+    "name": "Chris"
+  },
+  {
+    "id": 42,
+    "name": "Mai Sakurajima"
+  },
+  {
+    "id": 43,
+    "name": "Rio Futaba"
+  },
+  {
+    "id": 44,
+    "name": "Kaede Azusagawa"
+  },
+  {
+    "id": 45,
+    "name": "Shoko Makinohara"
+  },
+  {
+    "id": 46,
+    "name": "Kaguya Shinomiya"
+  },
+  {
+    "id": 47,
+    "name": "Chika Fujiwara"
+  },
+  {
+    "id": 48,
+    "name": "Miko Iino"
+  },
+  {
+    "id": 49,
+    "name": "Hayasaka"
+  },
+  {
+    "id": 50,
+    "name": "Zero Two"
+  },
+  {
+    "id": 51,
+    "name": "Miku Nakano"
+  },
+  {
+    "id": 52,
+    "name": "Nino Nakano"
+  },
+  {
+    "id": 53,
+    "name": "Itsuki Nakano"
+  },
+  {
+    "id": 54,
+    "name": "Yotsuba Nakano"
+  },
+  {
+    "id": 55,
+    "name": "Ichika Nakano"
+  },
+  {
+    "id": 56,
+    "name": "Raphtalia"
+  },
+  {
+    "id": 57,
+    "name": "Filo"
+  },
+  {
+    "id": 58,
+    "name": "Shuna"
+  },
+  {
+    "id": 59,
+    "name": "Shion"
+  },
+  {
+    "id": 60,
+    "name": "Milim Nava"
+  },
+  {
+    "id": 61,
+    "name": "Hinata Hyuga"
+  },
+  {
+    "id": 62,
+    "name": "Sakura Haruno"
+  },
+  {
+    "id": 63,
+    "name": "Tsunade"
+  },
+  {
+    "id": 64,
+    "name": "Temari"
+  },
+  {
+    "id": 65,
+    "name": "Ino Yamanaka"
+  },
+  {
+    "id": 66,
+    "name": "Sarada Uchiha"
+  },
+  {
+    "id": 67,
+    "name": "Uraraka Ochaco"
+  },
+  {
+    "id": 68,
+    "name": "Momo Yaoyorozu"
+  },
+  {
+    "id": 69,
+    "name": "Tsuyu Asui"
+  },
+  {
+    "id": 70,
+    "name": "Mina Ashido"
+  },
+  {
+    "id": 71,
+    "name": "Kyoka Jiro"
+  },
+  {
+    "id": 72,
+    "name": "Nejire Hado"
+  },
+  {
+    "id": 73,
+    "name": "Himiko Toga"
+  },
+  {
+    "id": 74,
+    "name": "Ryuko Matoi"
+  },
+  {
+    "id": 75,
+    "name": "Satsuki Kiryuin"
+  },
+  {
+    "id": 76,
+    "name": "Mako Mankanshoku"
+  },
+  {
+    "id": 77,
+    "name": "Nonon Jakuzure"
+  },
+  {
+    "id": 78,
+    "name": "Rei Ayanami"
+  },
+  {
+    "id": 79,
+    "name": "Misato Katsuragi"
+  },
+  {
+    "id": 80,
+    "name": "Ritsuko Akagi"
+  },
+  {
+    "id": 81,
+    "name": "Rei Hino"
+  },
+  {
+    "id": 82,
+    "name": "Ami Mizuno"
+  },
+  {
+    "id": 83,
+    "name": "Makoto Kino"
+  },
+  {
+    "id": 84,
+    "name": "Minako Aino"
+  },
+  {
+    "id": 85,
+    "name": "Usagi Tsukino"
+  },
+  {
+    "id": 86,
+    "name": "Misty"
+  },
+  {
+    "id": 87,
+    "name": "Serena"
+  },
+  {
+    "id": 88,
+    "name": "Lusamine"
+  },
+  {
+    "id": 89,
+    "name": "Nico Robin"
+  },
+  {
+    "id": 90,
+    "name": "Nami"
+  },
+  {
+    "id": 91,
+    "name": "Boa Hancock"
+  },
+  {
+    "id": 92,
+    "name": "Vivi Nefertari"
+  },
+  {
+    "id": 93,
+    "name": "Rukia Kuchiki"
+  },
+  {
+    "id": 94,
+    "name": "Orihime Inoue"
+  },
+  {
+    "id": 95,
+    "name": "Yoruichi Shihouin"
+  },
+  {
+    "id": 96,
+    "name": "Rangiku Matsumoto"
+  },
+  {
+    "id": 97,
+    "name": "Erza Scarlet"
+  },
+  {
+    "id": 98,
+    "name": "Lucy Heartfilia"
+  },
+  {
+    "id": 99,
+    "name": "Juvia Lockser"
+  },
+  {
+    "id": 100,
+    "name": "Wendy Marvell"
+  },
+  {
+    "id": 101,
+    "name": "Hinata Uzumaki"
+  },
+  {
+    "id": 102,
+    "name": "Kushina Uzumaki"
+  },
+  {
+    "id": 103,
+    "name": "Mei Terumi"
+  },
+  {
+    "id": 104,
+    "name": "Kurotsuchi"
+  },
+  {
+    "id": 105,
+    "name": "Rias Gremory"
+  },
+  {
+    "id": 106,
+    "name": "Akeno Himejima"
+  },
+  {
+    "id": 107,
+    "name": "Koneko Toujou"
+  },
+  {
+    "id": 108,
+    "name": "Asuna Yuuki"
+  },
+  {
+    "id": 109,
+    "name": "Sinon"
+  },
+  {
+    "id": 110,
+    "name": "Yotsugi Ononoki"
+  },
+  {
+    "id": 111,
+    "name": "Shinobu Oshino"
+  },
+  {
+    "id": 112,
+    "name": "Hitagi Senjougahara"
+  },
+  {
+    "id": 113,
+    "name": "Tsubasa Hanekawa"
+  },
+  {
+    "id": 114,
+    "name": "Chitoge Kirisaki"
+  },
+  {
+    "id": 115,
+    "name": "Kosaki Onodera"
+  },
+  {
+    "id": 116,
+    "name": "Yui Yuigahama"
+  },
+  {
+    "id": 117,
+    "name": "Yukino Yukinoshita"
+  },
+  {
+    "id": 118,
+    "name": "Shouko Nishimiya"
+  },
+  {
+    "id": 119,
+    "name": "Kurumi Tokisaki"
+  },
+  {
+    "id": 120,
+    "name": "Kotori Itsuka"
+  },
+  {
+    "id": 121,
+    "name": "Mio Akiyama"
+  },
+  {
+    "id": 122,
+    "name": "Yui Hirasawa"
+  },
+  {
+    "id": 123,
+    "name": "Reina Kousaka"
+  },
+  {
+    "id": 124,
+    "name": "Mikoto Misaka"
+  },
+  {
+    "id": 125,
+    "name": "Kuroko Shirai"
+  },
+  {
+    "id": 126,
+    "name": "C.C."
+  },
+  {
+    "id": 127,
+    "name": "Kallen Stadtfeld"
+  },
+  {
+    "id": 128,
+    "name": "Shinoa Hiiragi"
+  },
+  {
+    "id": 129,
+    "name": "Holo"
+  },
+  {
+    "id": 130,
+    "name": "Yuno Gasai"
+  },
+  {
+    "id": 131,
+    "name": "Kurisu Makise"
+  },
+  {
+    "id": 132,
+    "name": "Violet Evergarden"
+  },
+  {
+    "id": 133,
+    "name": "Hestia"
+  },
+  {
+    "id": 134,
+    "name": "Haruhi Suzumiya"
+  },
+  {
+    "id": 135,
+    "name": "Kagami Hiiragi"
+  },
+  {
+    "id": 136,
+    "name": "Taiga Aisaka"
+  },
+  {
+    "id": 137,
+    "name": "Shiina Mashiro"
+  },
+  {
+    "id": 138,
+    "name": "Nao Tomori"
+  },
+  {
+    "id": 139,
+    "name": "Tohka Yatogami"
+  },
+  {
+    "id": 140,
+    "name": "Yuzuru Yamai"
+  },
+  {
+    "id": 141,
+    "name": "Kaguya Otsutsuki"
+  },
+  {
+    "id": 142,
+    "name": "Kanae Kocho"
+  },
+  {
+    "id": 143,
+    "name": "Kotori Kanbe"
+  },
+  {
+    "id": 144,
+    "name": "Saya Sasamiya"
+  },
+  {
+    "id": 145,
+    "name": "Shirayuki"
+  },
+  {
+    "id": 146,
+    "name": "Yorha No.2 Type B"
+  },
+  {
+    "id": 147,
+    "name": "Anya Alstreim"
+  },
+  {
+    "id": 148,
+    "name": "Kallen Kozuki"
+  },
+  {
+    "id": 149,
+    "name": "Maria Cadenzavna Eve"
+  },
+  {
+    "id": 150,
+    "name": "Shirabe Tsukuyomi"
+  },
+  {
+    "id": 151,
+    "name": "Kirika Akatsuki"
+  },
+  {
+    "id": 152,
+    "name": "Kanade Amou"
+  },
+  {
+    "id": 153,
+    "name": "Hibiki Tachibana"
+  },
+  {
+    "id": 154,
+    "name": "Tsubasa Kazanari"
+  },
+  {
+    "id": 155,
+    "name": "Chris Yukine"
+  },
+  {
+    "id": 156,
+    "name": "Melty Q Melromarc"
+  },
+  {
+    "id": 157,
+    "name": "Rei Miyamoto"
+  },
+  {
+    "id": 158,
+    "name": "Mai Valentine"
+  },
+  {
+    "id": 159,
+    "name": "Shizue Izawa"
+  },
+  {
+    "id": 160,
+    "name": "Sakura Kinomoto"
+  },
+  {
+    "id": 161,
+    "name": "Tomoyo Daidouji"
+  },
+  {
+    "id": 162,
+    "name": "Meiling Li"
+  },
+  {
+    "id": 163,
+    "name": "Fujiwara no Mokou"
+  },
+  {
+    "id": 164,
+    "name": "Reimu Hakurei"
+  },
+  {
+    "id": 165,
+    "name": "Marisa Kirisame"
+  },
+  {
+    "id": 166,
+    "name": "Cirno"
+  },
+  {
+    "id": 167,
+    "name": "Reisen Udongein Inaba"
+  },
+  {
+    "id": 168,
+    "name": "Remilia Scarlet"
+  },
+  {
+    "id": 169,
+    "name": "Flandre Scarlet"
+  },
+  {
+    "id": 170,
+    "name": "Youmu Konpaku"
+  },
+  {
+    "id": 171,
+    "name": "Yuyuko Saigyouji"
+  },
+  {
+    "id": 172,
+    "name": "Yukari Yakumo"
+  },
+  {
+    "id": 173,
+    "name": "Ran Yakumo"
+  },
+  {
+    "id": 174,
+    "name": "Chen"
+  },
+  {
+    "id": 175,
+    "name": "Suika Ibuki"
+  },
+  {
+    "id": 176,
+    "name": "Tenshi Hinanawi"
+  },
+  {
+    "id": 177,
+    "name": "Iku Nagae"
+  },
+  {
+    "id": 178,
+    "name": "Komachi Onozuka"
+  },
+  {
+    "id": 179,
+    "name": "Shizuha Aki"
+  },
+  {
+    "id": 180,
+    "name": "Minoriko Aki"
+  },
+  {
+    "id": 181,
+    "name": "Hina Kagiyama"
+  },
+  {
+    "id": 182,
+    "name": "Nitori Kawashiro"
+  },
+  {
+    "id": 183,
+    "name": "Hata no Kokoro"
+  },
+  {
+    "id": 184,
+    "name": "Mamizou Futatsuiwa"
+  },
+  {
+    "id": 185,
+    "name": "Seija Kijin"
+  },
+  {
+    "id": 186,
+    "name": "Sekibanki"
+  },
+  {
+    "id": 187,
+    "name": "Kagerou Imaizumi"
+  },
+  {
+    "id": 188,
+    "name": "Wakasagihime"
+  },
+  {
+    "id": 189,
+    "name": "Parsee Mizuhashi"
+  },
+  {
+    "id": 190,
+    "name": "Yuugi Hoshiguma"
+  },
+  {
+    "id": 191,
+    "name": "Satori Komeiji"
+  },
+  {
+    "id": 192,
+    "name": "Koishi Komeiji"
+  },
+  {
+    "id": 193,
+    "name": "Rin Kaenbyou"
+  },
+  {
+    "id": 194,
+    "name": "Utsuho Reiuji"
+  },
+  {
+    "id": 195,
+    "name": "Sanae Kochiya"
   }
 ]
