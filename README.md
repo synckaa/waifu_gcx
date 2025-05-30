@@ -1,7 +1,7 @@
 
 # Waifu GCX
 ```
-Playground For Weebs
+Playground For Any Weebs
 
 ```
 
